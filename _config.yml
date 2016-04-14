@@ -1,0 +1,28 @@
+name: Test Site2
+favicon: null
+layout_spectrum: 0.3858843082562089
+typography_spectrum: 0.5736282623838633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.5407036440446973
+  lightness: 0.8920988759491593
+  saturation: 0.5286335465498269
+  rhythmicContrast: 0.36298996140249074
+purpose: []
